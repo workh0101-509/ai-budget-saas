@@ -1,5 +1,7 @@
 # AI Budget SaaS
 
+> **Statut : projet en phase de démarrage.** La structure du dépôt est en place, le code du MVP reste à développer.
+
 ## Présentation du produit
 
 **AI Budget** est une application web qui aide les particuliers et les freelances à comprendre où va leur argent. Elle importe leurs dépenses, les classe automatiquement grâce à l'IA et leur montre clairement s'ils respectent leur budget du mois.
